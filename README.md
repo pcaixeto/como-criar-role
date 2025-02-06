@@ -15,5 +15,5 @@ Por favor, siga os passos abaixo, sua mula:
 
 Apesar de você ser uma mula, você é capaz de seguir essas dicas.
 ---
-![Subway Surfers GIF](https://media.giphy.com/media/xyz123/giphy.gif)
+![Subway Surfers GIF]([https://media.giphy.com/media/xyz123/giphy.gif](https://giphy.com/gifs/SYBOGAMES-gaming-mobile-game-subway-surfers-Fr5LA2RCQbnVp74CxH)
 
