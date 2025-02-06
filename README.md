@@ -15,6 +15,6 @@ Por favor, siga os passos abaixo, sua mula:
 
 Apesar de você ser uma mula, você é capaz de seguir essas dicas.
 ---
-![Subway Surfers GIF]([images/nome_do_gif.gif](https://tenor.com/pt-BR/view/subway-surfers-gif-9012698))
+![Subway Surfers GIF](https://tenor.com/pt-BR/view/subway-surfers-gif-9012698)
 
 
